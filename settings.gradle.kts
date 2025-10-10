@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "list_task"
 include(":app")
+include(":feature:notes")
