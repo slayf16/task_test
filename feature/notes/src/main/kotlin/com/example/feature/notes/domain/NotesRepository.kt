@@ -9,7 +9,7 @@ interface NotesRepository {
 
     fun addNote(note: Note) : Boolean
 
-    fun removeNotes(id: Long) : Boolean
+    fun removeNote(id: Long) : Boolean
 
     fun updateNote(note: Note): Boolean
 
