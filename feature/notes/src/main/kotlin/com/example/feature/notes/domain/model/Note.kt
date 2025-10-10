@@ -1,4 +1,4 @@
-package com.example.feature.notes.domain
+package com.example.feature.notes.domain.model
 
 /** заметка */
 data class Note(
