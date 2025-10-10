@@ -1,4 +1,4 @@
-package com.example.feature.notes.domain
+package com.example.feature.notes.domain.model
 
 data class ListNoteItem(
     val id: Long,
